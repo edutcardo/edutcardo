@@ -10,3 +10,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=edutcardo&show_icons=true" />
   
 </picture>
+<i class="devicon-kotlin-plain-wordmark"></i>
+
