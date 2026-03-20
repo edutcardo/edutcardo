@@ -10,5 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=edutcardo&show_icons=true" />
   
 </picture>
-<i class="devicon-kotlin-plain-wordmark"></i>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
